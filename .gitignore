@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+trabalho1/build-MinGW-W64.bat
+trabalho1/build-VisualStudio2022.bat
+trabalho1/.vscode/launch.json
+trabalho1/.vscode/settings.json
+trabalho1/.vscode/tasks.json
+trabalho1/build/premake5
+trabalho1/build/premake5.lua
+trabalho1/build/premake5.osx
+trabalho1/include/resource_dir.h
+trabalho1/resources/wabbit_alpha.png
+trabalho1/src/application.rc
+trabalho1/src/icon.ico
+trabalho1/log.csv
+trabalho1/execution_time.txt
